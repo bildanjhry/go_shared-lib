@@ -4,6 +4,7 @@
 - Clear Terminal(linux)
 - I/O with buferio
 - load Env
+- Format integer into money
 
 ### Work with this package:
 ```shel
